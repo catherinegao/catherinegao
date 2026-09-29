@@ -1,12 +1,6 @@
-# Qing (Catherine) Gao
+# Qing Gao
 
-Senior Software Engineer with 10+ years building production-grade React,
-Redux, and TypeScript frontends, shared component libraries, and Python +
-Flask REST backends for carrier-grade enterprise web applications.
-
-Currently at Nokia, where I own the shared React, Redux, and TypeScript UI
-surface for **WaveSuite** — a carrier-grade optical network management
-platform shipped to tier-1 telecom operators worldwide.
+Software Engineer with extensive experience building enterprise-scale React applications for telecom and education. Owns the shared React and TypeScript UI libraries that power Nokia's WaveSuite NMS across multiple repositories and release branches, and architected the real-time event-channel layer supporting dozens of live UI surfaces. Expert in React, TypeScript, Redux, real-time systems, WCAG 2.x accessibility, and AI-assisted development. Seeking to leverage this background to deliver high-quality, scalable front-end solutions that drive customer success. 
 
 ## What's public here
 
